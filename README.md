@@ -16,5 +16,14 @@
 Describe the overall aim of your project and what you have achieved.
 
 ## Project overview
-Describe how your project is organized ...
+The project is organised into two main sections: the analysis and the report. 
+The report can be found in jupyter notebook "Report.ipynb" and provides information on the compound of interest  the  cell factory used, as well as on the model that has been utliized to perform the analysis. The report contains a throughout explanation of how and why the analysis was performed. 
+The analysis can be found in the folder "Analysis", which contains six subfolders with each of them containing a different analysis. Computations have been performed on:
+- Maximum theoretical yields
+- Model optimization
+- Model comparison
+- Model pathway validation
+- Phenotypic phase planes
+- Predicted genes for manipulation 
 
+Details on the requirements for this project can be found in requirements.txt. 
