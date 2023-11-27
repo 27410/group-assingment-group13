@@ -13,7 +13,7 @@
 > Good luck!
 
 ## Project summary (<300 words)
-The aim of the project was to design and optimise a cell factory to produce the medically important antibiotic "yanuthone D". The chosen cell factory was A. niger because yanuthone D's pathway is native to *A. niger*. Flux balance analysis (FBA) was performed using the python package "Cobrapy".
+The aim of the project was to design and optimise a cell factory to produce the medically important antibiotic "yanuthone D". The chosen cell factory was *A. niger* because yanuthone D's pathway is native to *A. niger*. Flux balance analysis (FBA) was performed using the python package "Cobrapy".
 
 ## Project overview
 The project is organised into two main sections: the analysis and the report. 
