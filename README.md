@@ -13,11 +13,13 @@
 > Good luck!
 
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
+The aim of the project was to design and optimise a cell factory to produce the medically important antibiotic "yanuthone D". The chosen cell factory was A. niger because yanuthone D's pathway is native to *A. niger*. Flux balance analysis (FBA) was performed using the python package "Cobrapy".
 
 ## Project overview
 The project is organised into two main sections: the analysis and the report. 
-The report can be found in jupyter notebook "Report.ipynb" and provides information on the compound of interest  the  cell factory used, as well as on the model that has been utliized to perform the analysis. The report contains a throughout explanation of how and why the analysis was performed. 
+
+The report can be found in the jupyter notebook "Report.ipynb" and provides information on the compound of interest and the  cell factory used, as well as on the model that has been utliized to perform the analysis. The report contains a throughout explanation of how and why the analysis was performed. 
+
 The analysis can be found in the folder "Analysis", which contains six subfolders with each of them containing a different analysis. Computations have been performed on:
 - Maximum theoretical yields
 - Model optimization
