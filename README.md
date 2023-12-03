@@ -12,12 +12,12 @@ The project is organized into two main sections: the analysis and the report.
 The report can be found in the Jupyter Notebook "**Report.ipynb**" and provides information on the compound of interest and the  cell factory used, as well as on the model that has been utilized to perform the analysis. The report contains a throughout explanation of how and why the analysis was performed. 
 
 The analysis can be found in the folder "**Analysis**", which contains seven subfolders, each containing a different analysis. Computations have been performed on:
-- Maximum theoretical yields: Theoretical yield calculation 
-- Model Optimization:  Medium formulation, Carbon source optimization, Potential precursor testing
-- Model comparison: Model reliability & consistency assessment 
-- Model pathway validation: Pathway of interest validation in GEMS 
-- Phenotypic phase planes: PPhP analysis
-- Predicted genes for manipulation: FSEOF, Optknock, Manually derived engineered strian simulation
-- DFBA: DFBA analysis
+- **Maximum theoretical yields**: Theoretical yield calculation 
+- **Model Optimization**:  Medium formulation, Carbon source optimization, Potential precursor testing
+- **Model comparison**: Model reliability & consistency assessment 
+- **Model pathway validation**: Pathway of interest validation in GEMS 
+- **Phenotypic phase planes**: PPhP analysis
+- **Predicted genes for manipulation**: FSEOF, Optknock, Manually derived engineered strain simulation
+- **DFBA**: DFBA analysis
 
 Details on the requirements for this project can be found in **requirements.txt.** 
