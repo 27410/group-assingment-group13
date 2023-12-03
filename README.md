@@ -3,7 +3,7 @@
 
 # 27410 - Group assignment - Group 13 - Improvement on yanuthone D production in Aspergillus niger
 
-## Project summary (<300 words)
+## Project summary 
 The aim of the project was to design and optimise a cell factory to produce the medically important antibiotic "yanuthone D". The chosen cell factory was *A. niger* because yanuthone D's pathway is native to *A. niger*. Flux balance analysis (FBA) was performed using the python package "Cobrapy".
 
 ## Project overview
