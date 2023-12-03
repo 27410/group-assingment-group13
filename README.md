@@ -20,4 +20,4 @@ The analysis can be found in the folder "**Analysis**", which contains seven sub
 - **Predicted genes for manipulation**: FSEOF, Optknock, Manually derived engineered strain simulation
 - **DFBA**: DFBA analysis
 
-Details on the requirements for this project can be found in **requirements.txt.** 
+Details on the requirements for this project can be found in **requirements.txt.** and **GEMs**
